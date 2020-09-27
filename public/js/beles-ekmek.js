@@ -1,5 +1,5 @@
 /**
- * @author Mehmet Seven [mehmetseven0@gmail.com]
+ * @author Berkay Ö. [berkaykisisel@gmail.com]
  *
  *	Beleş ekmek with Javascript
  * 
